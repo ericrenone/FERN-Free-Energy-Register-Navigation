@@ -505,5 +505,3 @@ Wenger, E. (1998). *Communities of Practice: Learning, Meaning, and Identity*. C
 **Framework:** FERN · FELD · ODES · GRAIN · LOOK · LKTL · MHLT · TGLT
 
 **Status Tags:** [T] = Theorem (proven) · [C] = Open conjecture · [H] = Working hypothesis
-
-**This framework is the synthesis identified as missing in the FELD vs. SOTA comparison: the derivation of FELD's Riemannian K from a multi-agent FEP system, with register topology as a property of the shared generative model structure. No prior paper contains this derivation.**
